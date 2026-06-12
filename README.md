@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **Logicloom IT Solutions** building ERP systems for manufacturing
-- ⚛️ 2.5+ years of experience with **React.js** and modern frontend development
+- 🔭 Currently working at **Logicloom IT Solutions PVT LTD** building ERP systems for manufacturing
+- ⚛️ 2.8+ years of experience with **React.js** and modern frontend development
 - 🛠️ Specializing in complex business UIs — invoicing, procurement, order management
 - 📍 Based in **Pune, India**
-- 📫 Reach me at **rohitbhujbal@gmail.com**
+- 📫 Reach me at **rohitbhujbal3007@gmail.com**
 - 🚀 Open to new **Frontend / React Developer** opportunities
 
 ---
