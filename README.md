@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working at **Logicloom IT Solutions Pvt Ltd** building ERP systems for tool & sheet metal manufacturers
-- ⚛️ **2.7+ years** of experience with React.js, TypeScript, and modern frontend development
+- ⚛️ **2.8+ years** of experience with React.js, TypeScript, and modern frontend development
 - 🛠️ Specializing in complex business UIs — procurement, invoicing, production tracking, order management
 - 🧪 Scaled test coverage from ~20% → ~65% with Jest & React Testing Library across ERP modules
 - 🤝 Mentored 2 interns and conducted weekly PR reviews for a 6-member team
