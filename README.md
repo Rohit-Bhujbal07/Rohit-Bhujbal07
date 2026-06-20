@@ -80,42 +80,31 @@ I'm a frontend engineer specializing in **complex, data-heavy business applicati
 
 <br/>
 
-## Featured Projects
+## Professional Work Highlights
+
+*These are production systems built for clients during my employment — codebases are proprietary, so no public repo links, but here's what I built:*
+
+**🏭 Tool Manufacturing ERP System** — `React` `Redux` `TypeScript` `REST APIs` `Bootstrap` `Node.js`
+- Built interactive dashboards covering the full sales order → production lifecycle
+- Designed 10+ validated master data forms with multi-step procurement/invoicing flows
+- Cut initial load time by ~40% using React.lazy/Suspense and route-level code-splitting
+
+**🏥 Healthcare Appointment Booking System** — `React` `Context API` `Firebase` `Tailwind CSS`
+- Built a mobile-first, responsive booking UI achieving a 95+ Lighthouse score
+- Implemented role-based access control for 3 user roles via Firebase Auth
+- Enabled real-time appointment updates using Firestore listeners
+
+**📦 Inventory & Project Management System** — `React` `Redux` `REST APIs` `Material UI`
+- Delivered a responsive UI across 8+ modules serving 100+ concurrent users
+- Integrated 12+ REST APIs to power live inventory dashboards
+- Achieved sub-200ms UI response times through memoization and selective re-rendering
+
+<br/>
+
+## Open Source / Personal Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏭 Tool Manufacturing ERP System
-Interactive dashboards for sales order & production lifecycle, 10+ validated master data forms, ~40% faster initial load via code-splitting.
-
-`React` `Redux` `TypeScript` `REST APIs` `Bootstrap` `Node.js`
-
-[View Repo →](https://github.com/Rohit-Bhujbal07)
-
-</td>
-<td width="50%">
-
-### 🏥 Healthcare Appointment Booking
-Mobile-first UI (95+ Lighthouse score) with role-based access for 3 roles via Firebase Auth and real-time booking via Firestore listeners.
-
-`React` `Context API` `Firebase` `Tailwind CSS`
-
-[View Repo →](https://github.com/Rohit-Bhujbal07)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📦 Inventory & Project Management
-Responsive UI across 8+ modules for 100+ users, 12+ REST APIs powering live inventory dashboards, sub-200ms response times via memoization.
-
-`React` `Redux` `REST APIs` `Material UI`
-
-[View Repo →](https://github.com/Rohit-Bhujbal07)
-
-</td>
 <td width="50%">
 
 ### 🤖 AI Resume Optimizer
@@ -124,6 +113,16 @@ AI-powered resume optimizer that tailors content using the Claude API.
 `React` `Claude API` `Vite`
 
 [View Repo →](https://github.com/Rohit-Bhujbal07/resume-optimizer)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio
+Personal portfolio site with a dark, neon-accented design.
+
+`React` `Tailwind CSS` `Framer Motion` `Vite`
+
+[View Repo →](https://github.com/Rohit-Bhujbal07/portfolio)
 
 </td>
 </tr>
