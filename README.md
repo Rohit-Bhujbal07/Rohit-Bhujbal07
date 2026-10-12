@@ -1,164 +1,174 @@
-[<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Bhujbal;React.js+%7C+TypeScript+Developer;Building+ERP+Systems+for+Manufacturing;Open+to+Frontend+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rohit+Bhujbal;React.js+%7C+TypeScript+Developer;Building+Reliable+Frontend+Experiences;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
 ### React.js Developer · Frontend Engineer · Pune, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bhujbal-589811193)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Bhujbal07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitbhujbal3007@gmail.com)
+Building responsive, maintainable web applications and data-driven business interfaces.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bhujbal-589811193/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Bhujbal07)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitbhujbal3007@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## About Me
+## 👋 About Me
 
-I'm a frontend engineer specializing in **complex, data-heavy business applications** — procurement, invoicing, production tracking, and order management — for manufacturing ERP systems.
+I'm a **Frontend Engineer with nearly 3 years of professional experience** building responsive web applications and enterprise ERP interfaces using React.js, JavaScript, TypeScript, and modern frontend tools.
 
-- 🔭 Currently building ERP systems for tool & sheet metal manufacturers at **Logicloom IT Solutions Pvt Ltd**
-- ⚛️ **2.8+ years** of experience with React.js, TypeScript, and modern frontend architecture
-- 🧪 Scaled test coverage from ~20% → ~65% with Jest & React Testing Library across ERP modules
-- 🤝 Mentor for 2 interns; lead weekly PR reviews for a 6-member team
-- 🌱 Currently sharpening system design and performance-optimization skills
-- 🚀 **Open to new Frontend / React Developer opportunities**
-- 📫 Reach me at **rohitbhujbal3007@gmail.com**
+- 💼 Software Engineer at **LogicLoom IT Solutions Pvt. Ltd.**
+- ⚛️ Focused on React.js, reusable components, hooks, and maintainable UI architecture.
+- 🔗 Experienced in REST API integration, Redux-based state management, and workflow-driven interfaces.
+- 🏭 Working on manufacturing ERP workflows across production, procurement, sales, and operational dashboards.
+- ⚡ Interested in frontend performance, accessible UI, and clean, maintainable code.
+- 🌱 Continuing to strengthen frontend system design, testing, and application architecture.
+- 🚀 Open to **React.js Developer / Frontend Engineer** opportunities.
 
-<br/>
+## 🧰 Tech Stack
 
-## Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend & UI**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend & State Management
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### UI & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
-**Backend, APIs & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### APIs, Tools & Testing
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Testing**
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-</div>
+---
 
-<br/>
+## 💼 Professional Experience
 
-## Experience
+### Software Engineer · LogicLoom IT Solutions Pvt. Ltd.
+**November 2023 – Present**
 
-**Software Engineer — Logicloom IT Solutions Pvt Ltd** · *Nov 2023 – Present*
+- Develop and maintain React.js interfaces for an enterprise tool-manufacturing ERP covering production, sales, procurement, quality, and inventory workflows.
+- Build reusable forms, tables, filters, modals, and client-side validation patterns across business modules.
+- Integrate REST APIs and manage application state using Redux/Redux Toolkit and React hooks.
+- Implement and maintain production scheduling, MRP-related screens, purchase-order workflows, inward inspection, and approval interfaces.
+- Develop operational dashboards for shop-floor, production, quality, maintenance, sales, and management users.
+- Integrate Socket.IO events for live shop-floor updates and branch-aware operational views.
+- Improve data-heavy interfaces using lazy loading, code splitting, and virtualized rendering where appropriate.
+- Collaborate with backend developers and QA to troubleshoot defects, deliver client change requests, and validate UI workflows.
+- Work with Git-based branching and pull requests in an Agile development environment.
 
-- Engineered 30+ reusable React.js components across 5+ modules, cutting feature dev time by ~35%
-- Led a TypeScript migration on 3 modules, removing runtime type errors and enforcing strict contracts
-- Architected Redux & Context API state for multi-step procurement/invoicing flows, cutting state bugs by ~40%
-- Optimized 15+ REST API integrations with debouncing and caching, reducing network calls by ~30%
-- Improved render performance with `useMemo`/`useCallback` across 10+ components
-- Grew test coverage from ~20% → ~65% by authoring 80+ unit/integration tests with Jest and RTL
-- Run weekly PR reviews for a 6-member team and mentor 2 interns on React patterns and Git workflow
+## 🏗️ Professional Work Highlights
 
-<br/>
+> These projects were developed as part of my employment. Their source code is proprietary and cannot be shared publicly.
 
-## Professional Work Highlights
+### 🏭 Tool Manufacturing ERP System — TOOLIVO
 
-*These are production systems built for clients during my employment — codebases are proprietary, so no public repo links, but here's what I built:*
+**Tech:** `React.js` `TypeScript` `Redux` `REST APIs` `Bootstrap` `Socket.IO`
 
-**🏭 Tool Manufacturing ERP System** — `React` `Redux` `TypeScript` `REST APIs` `Bootstrap` `Node.js`
-- Built interactive dashboards covering the full sales order → production lifecycle
-- Designed 10+ validated master data forms with multi-step procurement/invoicing flows
-- Cut initial load time by ~40% using React.lazy/Suspense and route-level code-splitting
+An enterprise platform supporting manufacturing operations, procurement, production lifecycle management, sales tracking, and operational dashboards.
 
-**🏥 Healthcare Appointment Booking System** — `React` `Context API` `Firebase` `Tailwind CSS`
-- Built a mobile-first, responsive booking UI achieving a 95+ Lighthouse score
-- Implemented role-based access control for 3 user roles via Firebase Auth
-- Enabled real-time appointment updates using Firestore listeners
+- Developed dashboard interfaces for production, quality assurance, maintenance, sales, and management.
+- Built reusable master-data forms and UI patterns with validation, filtering, and pagination.
+- Worked on production scheduling, MRP-related screens, purchase-order workflows, inward inspection, and approval status handling.
+- Integrated REST APIs and state management across business workflows.
+- Applied lazy loading, code splitting, and virtualized rendering patterns to support data-heavy screens.
+- Integrated live shop-floor events to display operational updates.
 
-**📦 Inventory & Project Management System** — `React` `Redux` `REST APIs` `Material UI`
-- Delivered a responsive UI across 8+ modules serving 100+ concurrent users
-- Integrated 12+ REST APIs to power live inventory dashboards
-- Achieved sub-200ms UI response times through memoization and selective re-rendering
+### 🏥 Healthcare Appointment Booking System
 
-<br/>
+**Tech:** `React.js` `Context API` `Firebase` `Node.js` `Tailwind CSS`
 
-## Open Source / Personal Projects
+A healthcare application supporting appointment booking and patient workflows.
 
-<table>
-<tr>
-<td width="50%">
+- Developed responsive interfaces for onboarding, appointment booking, rescheduling, and cancellation.
+- Integrated Firebase authentication and appointment status updates.
+- Worked on booking validation and Google sign-in/reCAPTCHA flows to help prevent duplicate or invalid submissions.
+- Connected frontend workflows with backend notification functionality.
+
+### 📦 Inventory & Project Management System
+
+**Tech:** `React.js` `Redux` `REST APIs` `Material UI`
+
+- Developed responsive interfaces for inventory and project-related workflows.
+- Integrated REST APIs for data-driven listings and operational views.
+- Implemented client-side validation, filtering, and state handling.
+- Reused UI patterns to keep interactions consistent across modules.
+
+---
+
+## 🌟 Personal Projects
 
 ### 🤖 AI Resume Optimizer
-AI-powered resume optimizer that tailors content using the Claude API.
 
-`React` `Claude API` `Vite`
+**Tech:** `React.js` `Claude API` `Vite`
 
-[View Repo →](https://github.com/Rohit-Bhujbal07/resume-optimizer)
+An AI-assisted application concept for improving and tailoring resume content.
 
-</td>
-<td width="50%">
+- Focuses on resume content optimization using an AI API.
+- Uses a React interface for the resume optimization workflow.
 
-### 🌐 Portfolio
-Personal portfolio site with a dark, neon-accented design.
+🔗 [View Repository](https://github.com/Rohit-Bhujbal07/resume-optimizer)
 
-`React` `Tailwind CSS` `Framer Motion` `Vite`
+### 🌐 Personal Portfolio
 
-[View Repo →](https://github.com/Rohit-Bhujbal07/portfolio)
+**Tech:** `React.js` `Tailwind CSS` `Framer Motion` `Vite`
 
-</td>
-</tr>
-</table>
+A personal portfolio concept for presenting projects, skills, and professional experience.
 
-<br/>
+- Uses responsive styling and a dark, neon-inspired visual direction.
+- Uses Framer Motion for interface animations.
 
-## Education & Certifications
+🔗 [View Repository](https://github.com/Rohit-Bhujbal07/portfolio)
 
-- 🎓 **B.E., Information Technology** — Savitribai Phule Pune University *(2022 · CGPA 8.97)*
-- 📜 **Full Stack Web Development with React.js** — Bitcode Technologies *(2023)*
+---
 
-<br/>
+## 🎓 Education
 
-## GitHub Stats
+- **B.E. in Information Technology** — PCET's Nutan Maharashtra Institute of Engineering & Technology, Pune · 2022 · **CGPA: 8.97**
+- **Full Stack Web Development with React.js** — Bitcode Technologies · 2023
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-Bhujbal07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Bhujbal07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bhujbal07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<br/>
+## 📊 GitHub Overview
 
 <div align="center">
 
-### Let's Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohit-Bhujbal07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Bhujbal07&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bhujbal-589811193)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitbhujbal3007@gmail.com)
-
-*Thanks for stopping by — feel free to explore my repos and reach out!*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bhujbal07&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
-](https://github.com/Rohit-Bhujbal07)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on frontend projects, and exploring React.js / Frontend Engineer opportunities.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Bhujbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bhujbal-589811193/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rohit--Bhujbal07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Bhujbal07)
+[![Email](https://img.shields.io/badge/Email-rohitbhujbal3007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitbhujbal3007@gmail.com)
+
+**Thanks for visiting! Feel free to explore my repositories and connect.**
+
+</div>
