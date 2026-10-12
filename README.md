@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Bhujbal;React.js+%7C+TypeScript+Developer;Building+ERP+Systems+for+Manufacturing;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
@@ -161,3 +161,4 @@ Personal portfolio site with a dark, neon-accented design.
 *Thanks for stopping by — feel free to explore my repos and reach out!*
 
 </div>
+](https://github.com/Rohit-Bhujbal07)
