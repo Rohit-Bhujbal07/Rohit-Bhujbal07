@@ -16,7 +16,7 @@ Building responsive, maintainable web applications and data-driven business inte
 
 ## 👋 About Me
 
-I'm a **Frontend Engineer with nearly 3 years of professional experience** building responsive web applications and enterprise ERP interfaces using React.js, JavaScript, TypeScript, and modern frontend tools.
+I'm a **Frontend Engineer with 3 years of professional experience** building responsive web applications and enterprise ERP interfaces using React.js, JavaScript, TypeScript, and modern frontend tools.
 
 - 💼 Software Engineer at **LogicLoom IT Solutions Pvt. Ltd.**
 - ⚛️ Focused on React.js, reusable components, hooks, and maintainable UI architecture.
